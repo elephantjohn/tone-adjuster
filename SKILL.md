@@ -6,7 +6,7 @@ display_name_en: Tone Adjuster
 description: This skill should be used when the user wants the same message rephrased in different tones — including phrases like "改委婉点", "说得不那么冲", "对上级该怎么说", "换个说法", "这话太生硬了", "make it sound nicer", "rephrase this more politely". It outputs five tone variants while keeping the underlying facts unchanged.
 description_en: This skill should be used when the user wants the same message rephrased in different tones — including phrases like "make it more polite", "say it less harshly", "how should I tell my boss", "rephrase this", "this sounds too blunt", "soften the tone". It outputs five tone variants while keeping the underlying facts unchanged.
 description_zh: 当用户要把同一段话换不同语气表达时使用，包括「改委婉点」「说得不那么冲」「对上级该怎么说」「换个说法」「这话太生硬了」等表达。本技能给同一件事的 5 档语气版本，事实不变只改包装。
-version: "1.0.0"
+version: "1.0.1"
 category: 写作与沟通
 agent_created: true
 ---
